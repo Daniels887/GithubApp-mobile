@@ -4,17 +4,7 @@
             "outputFile": "/home/daniel/Projetos/GithubApp-mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/6d1ed2d3559d3d094c6c39fd7f9481fe/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/1a28495d4f0dc4d00fca5bd7ec060d62/res/values-v16/values-v16.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/e018f2a2ad4c2f677953151e510be364/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/4eb52463352f8b1d5734036ea8e4c5a4/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]

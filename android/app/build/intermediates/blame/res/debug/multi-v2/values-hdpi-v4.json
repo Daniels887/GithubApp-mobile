@@ -4,7 +4,7 @@
             "outputFile": "/home/daniel/Projetos/GithubApp-mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/1a28495d4f0dc4d00fca5bd7ec060d62/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/e018f2a2ad4c2f677953151e510be364/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
