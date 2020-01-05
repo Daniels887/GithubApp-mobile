@@ -1,5 +1,5 @@
 # GithubApp-mobile
-<img src="https://github.com/Daniels887/GithubApp-mobile/blob/master/Telas/Main.png" alt="Main" width="300" height="400" /> <img src="https://github.com/Daniels887/GithubApp-mobile/blob/master/Telas/User.png" alt="User" width="300" height="400" /> 
+<img src="https://github.com/Daniels887/GithubApp-mobile/blob/master/Telas/Main.png" alt="Main" width="270" height="400" /> <img src="https://github.com/Daniels887/GithubApp-mobile/blob/master/Telas/User.png" alt="User" width="270" height="400" /> 
 ## Lista de depêndencias utilizadas
 
 * Prettier
