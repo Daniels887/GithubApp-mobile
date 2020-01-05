@@ -9,5 +9,7 @@
 * React-navigation
 * React-gesture-handler
 * Styled-components
+* Reactotron
+* React-native-vector-icons
 
 > Que a força esteja com você
