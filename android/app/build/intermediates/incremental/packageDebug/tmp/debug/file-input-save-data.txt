@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Jan 04 22:01:21 BRT 2020
+#Sat Jan 04 23:19:52 BRT 2020
 60.set=NATIVE_RESOURCE
 52.set=NATIVE_RESOURCE
 53.base=/home/daniel/Projetos/GithubApp-mobile/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
