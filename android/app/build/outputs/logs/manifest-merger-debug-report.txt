@@ -5,6 +5,7 @@ INJECTED from /home/daniel/Projetos/GithubApp-mobile/android/app/src/main/Androi
 INJECTED from /home/daniel/Projetos/GithubApp-mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /home/daniel/Projetos/GithubApp-mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from /home/daniel/Projetos/GithubApp-mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-webview] /home/daniel/Projetos/GithubApp-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
 MERGED from [:react-native-vector-icons] /home/daniel/Projetos/GithubApp-mobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:@react-native-community_async-storage] /home/daniel/Projetos/GithubApp-mobile/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:@react-native-community_masked-view] /home/daniel/Projetos/GithubApp-mobile/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
@@ -84,6 +85,8 @@ application
 ADDED from /home/daniel/Projetos/GithubApp-mobile/android/app/src/main/AndroidManifest.xml:6:5-24:19
 MERGED from /home/daniel/Projetos/GithubApp-mobile/android/app/src/main/AndroidManifest.xml:6:5-24:19
 MERGED from /home/daniel/Projetos/GithubApp-mobile/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-webview] /home/daniel/Projetos/GithubApp-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /home/daniel/Projetos/GithubApp-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
 MERGED from [com.facebook.react:react-native:0.61.5] /home/daniel/.gradle/caches/transforms-2/files-2.1/2a38703d82b569d60841cb246ff5e708/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.61.5] /home/daniel/.gradle/caches/transforms-2/files-2.1/2a38703d82b569d60841cb246ff5e708/AndroidManifest.xml:11:5-20
 MERGED from [com.google.android.material:material:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ce9ce23cbc28e9f97cf336cc0e00a18e/AndroidManifest.xml:22:5-20
@@ -148,6 +151,8 @@ uses-sdk
 INJECTED from /home/daniel/Projetos/GithubApp-mobile/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/daniel/Projetos/GithubApp-mobile/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/daniel/Projetos/GithubApp-mobile/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-webview] /home/daniel/Projetos/GithubApp-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /home/daniel/Projetos/GithubApp-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /home/daniel/Projetos/GithubApp-mobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /home/daniel/Projetos/GithubApp-mobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:@react-native-community_async-storage] /home/daniel/Projetos/GithubApp-mobile/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
@@ -262,3 +267,19 @@ uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /home/daniel/Projetos/GithubApp-mobile/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
 		ADDED from /home/daniel/Projetos/GithubApp-mobile/android/app/src/debug/AndroidManifest.xml:5:22-75
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /home/daniel/Projetos/GithubApp-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /home/daniel/Projetos/GithubApp-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /home/daniel/Projetos/GithubApp-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /home/daniel/Projetos/GithubApp-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /home/daniel/Projetos/GithubApp-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] /home/daniel/Projetos/GithubApp-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] /home/daniel/Projetos/GithubApp-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] /home/daniel/Projetos/GithubApp-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67

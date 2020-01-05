@@ -1976,6 +1976,10 @@
         "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/e018f2a2ad4c2f677953151e510be364/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/daniel/Projetos/GithubApp-mobile/android/app/build/intermediates/res/merged/debug/xml_file_provider_paths.xml.flat",
+        "source": "/home/daniel/Projetos/GithubApp-mobile/node_modules/react-native-webview/android/build/intermediates/packaged_res/debug/xml/file_provider_paths.xml"
+    },
+    {
         "merged": "/home/daniel/Projetos/GithubApp-mobile/android/app/build/intermediates/res/merged/debug/anim_abc_popup_exit.xml.flat",
         "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/e018f2a2ad4c2f677953151e510be364/res/anim/abc_popup_exit.xml"
     },
