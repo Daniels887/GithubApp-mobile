@@ -5,6 +5,7 @@ INJECTED from /home/daniel/Projetos/GithubApp-mobile/android/app/src/main/Androi
 INJECTED from /home/daniel/Projetos/GithubApp-mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /home/daniel/Projetos/GithubApp-mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from /home/daniel/Projetos/GithubApp-mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:@react-native-community_masked-view] /home/daniel/Projetos/GithubApp-mobile/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-gesture-handler] /home/daniel/Projetos/GithubApp-mobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-reanimated] /home/daniel/Projetos/GithubApp-mobile/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-safe-area-context] /home/daniel/Projetos/GithubApp-mobile/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
@@ -145,6 +146,8 @@ uses-sdk
 INJECTED from /home/daniel/Projetos/GithubApp-mobile/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/daniel/Projetos/GithubApp-mobile/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/daniel/Projetos/GithubApp-mobile/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_masked-view] /home/daniel/Projetos/GithubApp-mobile/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] /home/daniel/Projetos/GithubApp-mobile/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-gesture-handler] /home/daniel/Projetos/GithubApp-mobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] /home/daniel/Projetos/GithubApp-mobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-reanimated] /home/daniel/Projetos/GithubApp-mobile/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
