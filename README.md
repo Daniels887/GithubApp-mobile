@@ -4,6 +4,7 @@
     
 ### :hammer: Techs
 
+* React Native
 * Prettier
 * Eslint
 * Axios
