@@ -1,4 +1,4 @@
-<h3 align="center">Github App - Mobile</h3><br/>
+<h3 align="center">Github App</h3><br/>
 
 <h3 align="center"><img src="https://github.com/Daniels887/GithubApp-mobile/blob/master/Telas/Main.png" alt="Main" width="250" height="450" /> <img src="https://github.com/Daniels887/GithubApp-mobile/blob/master/Telas/User.png" alt="User" width="250" height="450" /><h3>
     
